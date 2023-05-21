@@ -28,8 +28,8 @@ function App() {
   return (
     <div>
       <NavBar />
-      <div id="home">...</div>
-      <div id="about">...</div>
+      <Home />
+      <About />
     </div>
   );
 }
